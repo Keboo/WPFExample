@@ -1,0 +1,4 @@
+There are three TODO entries
+1. In MainWindowViewModel.LoadPeople() populate the People collection with PeopleViewModel objects using the data from GetPeople()
+2. In PersonViewModel add all needed properties
+3. In MainWindow.xaml populate the list box with the items created in #1. Use data binding to access the data in the view model classes.
